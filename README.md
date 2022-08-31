@@ -1,4 +1,5 @@
 # bookish-telegram
+Link back to repo: https://github.com/mindy-m/bookish-telegram
 
 Refreshing skills by going back to the basics!
 
